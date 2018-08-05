@@ -14,7 +14,7 @@ Findings
 ## Part 2: Business Analysis
 
 Assumptions 
-To identify the loans with at least 36 months of history available, I calculated the number of months between the loan issue date and the most recent issue date in the dataset. This assumes that a) all loan histories have been kept up-to-date and b) loan histories are updated on a monthly basis.
+- To identify the loans with at least 36 months of history available, I calculated the number of months between the loan issue date and the most recent issue date in the dataset. This assumes that a) all loan histories have been kept up-to-date and b) loan histories are updated on a monthly basis.
 
 Conclusions 
 - The 36 month term loans with at least 36 months of history available averaged a 2.9 percent annual rate of return (8.9 percent overall)
