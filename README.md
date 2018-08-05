@@ -17,7 +17,7 @@ Assumptions
 - To identify the loans with at least 36 months of history available, I calculated the number of months between the loan issue date and the most recent issue date in the dataset. This assumes that a) all loan histories have been kept up-to-date and b) loan histories are updated on a monthly basis.
 
 Conclusions 
-- The 36 month term loans with at least 36 months of history available averaged a 2.9 percent annual rate of return (8.9 percent overall)
+- The 36 month term loans with at least 36 months of history available averaged a 2.9 percent annual rate of return (8.9 percent overall).
 - The 2012 grade-G loans had the highest annual rate of return of any cohort with an average annual return rate of 7.1 percent. 
 
 ## Part 3: Modeling
